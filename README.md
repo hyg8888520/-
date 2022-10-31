@@ -1,7 +1,7 @@
 # 这是一个说明文档
 ## _2022全国高校大数据挑战书B题_
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://github.com/hyg8888520/-/tree/main)
 
 
 ## Features
