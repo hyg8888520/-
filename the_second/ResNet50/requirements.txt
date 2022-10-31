@@ -1,0 +1,4 @@
+opencv_python==4.5.5.62
+paddle==1.0.2
+paddlepaddle_gpu==2.3.2.post112
+paddlex==2.1.0
